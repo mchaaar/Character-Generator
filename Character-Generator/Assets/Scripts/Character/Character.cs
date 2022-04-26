@@ -14,6 +14,7 @@ public class Character {
 public class BodyPart {
 
     public string name;
+    public Vector3 position;
     public bool required;
 
 }

@@ -4,10 +4,6 @@ using System.Collections.Generic;
 
 public class NewCharacter : MonoBehaviour {
 
-    void Start(){
-
-
-
-    }
+    public Character character;
 
 }
