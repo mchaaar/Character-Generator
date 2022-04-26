@@ -1,2 +1,2 @@
 # Character-Generator
-2D pixel art character generator.
+WIP 2D pixel art character generator.
