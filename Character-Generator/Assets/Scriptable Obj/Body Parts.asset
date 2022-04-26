@@ -13,6 +13,19 @@ MonoBehaviour:
   m_Name: Body Parts
   m_EditorClassIdentifier: 
   bodyParts:
-  - partType: 0
-    customName: 
-    prefab: {fileID: 0}
+  - name: Head
+    variants:
+    - name: Small Head
+      prefab: {fileID: 0}
+    - name: Normal Head
+      prefab: {fileID: 0}
+    - name: Big Head
+      prefab: {fileID: 0}
+  - name: Torso
+    variants:
+    - name: Small Torso
+      prefab: {fileID: 0}
+    - name: Normal Torso
+      prefab: {fileID: 0}
+    - name: Big Torso
+      prefab: {fileID: 0}
