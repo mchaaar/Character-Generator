@@ -314,9 +314,15 @@ MonoBehaviour:
   character:
     name: Martin
     bodyParts:
-    - name: Head
+    - partType: 0
+      customName: 
+      prefab: {fileID: 0}
+      name: 
       position: {x: 0, y: 0, z: 0}
-      required: 1
-    - name: Torso
-      position: {x: 0, y: -1, z: 0}
-      required: 1
+      required: 0
+    - partType: 0
+      customName: 
+      prefab: {fileID: 0}
+      name: 
+      position: {x: 0, y: 0, z: 0}
+      required: 0

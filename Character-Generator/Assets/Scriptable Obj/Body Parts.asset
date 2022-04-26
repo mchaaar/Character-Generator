@@ -12,8 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 335967ae5aca79c43bc764e422cba556, type: 3}
   m_Name: Body Parts
   m_EditorClassIdentifier: 
-  parts:
-  - name: Head
-    required: 1
-  - name: Torso
-    required: 1
+  bodyParts:
+  - partType: 0
+    customName: 
+    prefab: {fileID: 0}
