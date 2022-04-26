@@ -1,7 +1,13 @@
 using UnityEngine;
 
 [System.Serializable]
-public class CharacterBodyPart : BodyPart {
+public class CharacterBodyPart : Variant {
+
+    [Space(6)]
+    public string variantName;
+
+    [Space(6)]
+    public int selectedIndex;
 
     [Space(6)]
     public Vector3 position;
