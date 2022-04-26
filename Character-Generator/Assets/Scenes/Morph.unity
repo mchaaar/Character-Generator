@@ -314,15 +314,13 @@ MonoBehaviour:
   character:
     name: Martin
     bodyParts:
-    - partType: 0
+    - part: 0
       customName: 
       prefab: {fileID: 0}
-      name: 
       position: {x: 0, y: 0, z: 0}
       required: 0
-    - partType: 0
+    - part: 1
       customName: 
       prefab: {fileID: 0}
-      name: 
       position: {x: 0, y: 0, z: 0}
       required: 0
