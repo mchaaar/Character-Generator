@@ -1,2 +1,3 @@
 # Character-Generator
-WIP 2D pixel art character generator.
+Work in progress 2D pixel art character generator.  
+Made with C# in Unity.
