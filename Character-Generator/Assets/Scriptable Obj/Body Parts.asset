@@ -13,6 +13,14 @@ MonoBehaviour:
   m_Name: Body Parts
   m_EditorClassIdentifier: 
   bodyParts:
+  - name: Hair
+    variants:
+    - name: Shaved
+      prefab: {fileID: 0}
+    - name: Short Hair
+      prefab: {fileID: 0}
+    - name: Long Hair
+      prefab: {fileID: 0}
   - name: Head
     variants:
     - name: Small Head
@@ -21,6 +29,14 @@ MonoBehaviour:
       prefab: {fileID: 0}
     - name: Big Head
       prefab: {fileID: 0}
+  - name: Eyes
+    variants:
+    - name: Small Eyes
+      prefab: {fileID: 0}
+    - name: Normal Eyes
+      prefab: {fileID: 0}
+    - name: Big Eyes
+      prefab: {fileID: 0}
   - name: Torso
     variants:
     - name: Small Torso
@@ -28,4 +44,28 @@ MonoBehaviour:
     - name: Normal Torso
       prefab: {fileID: 0}
     - name: Big Torso
+      prefab: {fileID: 0}
+  - name: Arms
+    variants:
+    - name: Short Arms
+      prefab: {fileID: 0}
+    - name: Normal Arms
+      prefab: {fileID: 0}
+    - name: Long Arms
+      prefab: {fileID: 0}
+  - name: Legs
+    variants:
+    - name: Short Legs
+      prefab: {fileID: 0}
+    - name: Normal Legs
+      prefab: {fileID: 0}
+    - name: Long Legs
+      prefab: {fileID: 0}
+  - name: Feet
+    variants:
+    - name: Small Feet
+      prefab: {fileID: 0}
+    - name: Normal Feet
+      prefab: {fileID: 0}
+    - name: Big Feet
       prefab: {fileID: 0}
