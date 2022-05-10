@@ -29,12 +29,19 @@ public class CharacterGenerator : MonoBehaviour {
                     newCharacter.bodyParts[i].prefab = allBodyParts.bodyParts[ii].variants[random].prefab;
                     newCharacter.bodyParts[i].variantName = allBodyParts.bodyParts[ii].variants[random].name;
                     newCharacter.bodyParts[i].selectedIndex = random;
+                    Instantiate(i);
 
                 }
 
             }
 
         }
+
+    }
+
+    public void Instantiate(int i){
+
+        Instantiate(newCharacter.bodyParts[i].prefab, newCharacter.bodyParts[i].position, Quaternion.identity);
 
     }
 

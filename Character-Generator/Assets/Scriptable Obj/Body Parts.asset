@@ -16,56 +16,56 @@ MonoBehaviour:
   - name: Hair
     variants:
     - name: Shaved
-      prefab: {fileID: 0}
+      prefab: {fileID: 2238524887972757211, guid: 429028067f7878a42aa41c6fe6ba3f48, type: 3}
     - name: Short Hair
-      prefab: {fileID: 0}
+      prefab: {fileID: 2238524887972757211, guid: 429028067f7878a42aa41c6fe6ba3f48, type: 3}
     - name: Long Hair
-      prefab: {fileID: 0}
+      prefab: {fileID: 2238524887972757211, guid: 429028067f7878a42aa41c6fe6ba3f48, type: 3}
   - name: Head
     variants:
     - name: Small Head
-      prefab: {fileID: 0}
+      prefab: {fileID: 2238524887972757211, guid: 429028067f7878a42aa41c6fe6ba3f48, type: 3}
     - name: Normal Head
-      prefab: {fileID: 0}
+      prefab: {fileID: 2238524887972757211, guid: 429028067f7878a42aa41c6fe6ba3f48, type: 3}
     - name: Big Head
-      prefab: {fileID: 0}
+      prefab: {fileID: 2238524887972757211, guid: 429028067f7878a42aa41c6fe6ba3f48, type: 3}
   - name: Eyes
     variants:
     - name: Small Eyes
-      prefab: {fileID: 0}
+      prefab: {fileID: 2238524887972757211, guid: 429028067f7878a42aa41c6fe6ba3f48, type: 3}
     - name: Normal Eyes
-      prefab: {fileID: 0}
+      prefab: {fileID: 2238524887972757211, guid: 429028067f7878a42aa41c6fe6ba3f48, type: 3}
     - name: Big Eyes
-      prefab: {fileID: 0}
+      prefab: {fileID: 2238524887972757211, guid: 429028067f7878a42aa41c6fe6ba3f48, type: 3}
   - name: Torso
     variants:
     - name: Small Torso
-      prefab: {fileID: 0}
+      prefab: {fileID: 2238524887972757211, guid: 429028067f7878a42aa41c6fe6ba3f48, type: 3}
     - name: Normal Torso
-      prefab: {fileID: 0}
+      prefab: {fileID: 2238524887972757211, guid: 429028067f7878a42aa41c6fe6ba3f48, type: 3}
     - name: Big Torso
-      prefab: {fileID: 0}
+      prefab: {fileID: 2238524887972757211, guid: 429028067f7878a42aa41c6fe6ba3f48, type: 3}
   - name: Arms
     variants:
     - name: Short Arms
-      prefab: {fileID: 0}
+      prefab: {fileID: 2238524887972757211, guid: 429028067f7878a42aa41c6fe6ba3f48, type: 3}
     - name: Normal Arms
-      prefab: {fileID: 0}
+      prefab: {fileID: 2238524887972757211, guid: 429028067f7878a42aa41c6fe6ba3f48, type: 3}
     - name: Long Arms
-      prefab: {fileID: 0}
+      prefab: {fileID: 2238524887972757211, guid: 429028067f7878a42aa41c6fe6ba3f48, type: 3}
   - name: Legs
     variants:
     - name: Short Legs
-      prefab: {fileID: 0}
+      prefab: {fileID: 2238524887972757211, guid: 429028067f7878a42aa41c6fe6ba3f48, type: 3}
     - name: Normal Legs
-      prefab: {fileID: 0}
+      prefab: {fileID: 2238524887972757211, guid: 429028067f7878a42aa41c6fe6ba3f48, type: 3}
     - name: Long Legs
-      prefab: {fileID: 0}
+      prefab: {fileID: 2238524887972757211, guid: 429028067f7878a42aa41c6fe6ba3f48, type: 3}
   - name: Feet
     variants:
     - name: Small Feet
-      prefab: {fileID: 0}
+      prefab: {fileID: 2238524887972757211, guid: 429028067f7878a42aa41c6fe6ba3f48, type: 3}
     - name: Normal Feet
-      prefab: {fileID: 0}
+      prefab: {fileID: 2238524887972757211, guid: 429028067f7878a42aa41c6fe6ba3f48, type: 3}
     - name: Big Feet
-      prefab: {fileID: 0}
+      prefab: {fileID: 2238524887972757211, guid: 429028067f7878a42aa41c6fe6ba3f48, type: 3}
