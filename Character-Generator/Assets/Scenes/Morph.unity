@@ -255,36 +255,43 @@ MonoBehaviour:
     bodyParts:
     - name: Hair
       prefab: {fileID: 0}
+      variantName: 
       selectedIndex: 0
       position: {x: 0, y: 0, z: 0}
       required: 1
     - name: Head
       prefab: {fileID: 0}
+      variantName: 
       selectedIndex: 0
       position: {x: 0, y: 0, z: 0}
       required: 1
     - name: Eyes
       prefab: {fileID: 0}
+      variantName: 
       selectedIndex: 0
       position: {x: 0, y: 0, z: 0}
       required: 1
     - name: Torso
       prefab: {fileID: 0}
+      variantName: 
       selectedIndex: 0
       position: {x: 0, y: 0, z: 0}
       required: 1
     - name: Arms
       prefab: {fileID: 0}
+      variantName: 
       selectedIndex: 0
       position: {x: 0, y: 0, z: 0}
       required: 1
     - name: Legs
       prefab: {fileID: 0}
+      variantName: 
       selectedIndex: 0
       position: {x: 0, y: 0, z: 0}
       required: 1
     - name: Feet
       prefab: {fileID: 0}
+      variantName: 
       selectedIndex: 0
       position: {x: 0, y: 0, z: 0}
       required: 1
